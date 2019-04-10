@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554884822431.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1327124580",
+    "id" : "8552692F",
+    "lastKnownWriteTime" : 1554894529,
+    "last_content_update" : 1554894529723,
+    "path" : "D:/R_projects/Epidemic_Modelling_Workshop_Unitid/script/ms5.1.bite_incidence.R",
+    "project_path" : "script/ms5.1.bite_incidence.R",
+    "properties" : {
+        "cursorPosition" : "28,8",
+        "scrollLine" : "25",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

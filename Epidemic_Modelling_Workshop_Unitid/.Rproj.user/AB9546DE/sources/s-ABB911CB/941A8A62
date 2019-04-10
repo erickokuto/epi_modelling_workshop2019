@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554884890010.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3222521487",
+    "id" : "941A8A62",
+    "lastKnownWriteTime" : 1554894529,
+    "last_content_update" : 1554894529980,
+    "path" : "D:/R_projects/Epidemic_Modelling_Workshop_Unitid/script/day3_script_rabies.R",
+    "project_path" : "script/day3_script_rabies.R",
+    "properties" : {
+        "cursorPosition" : "1,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

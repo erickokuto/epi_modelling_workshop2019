@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554873399998.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7CA82B86",
+    "lastKnownWriteTime" : 1554810530,
+    "last_content_update" : 1554810530,
+    "path" : "D:/R_projects/Epidemic_Modelling_Workshop_Unitid/script/Pulliam_Silkey2016.R",
+    "project_path" : "script/Pulliam_Silkey2016.R",
+    "properties" : {
+        "cursorPosition" : "117,104",
+        "scrollLine" : "117"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

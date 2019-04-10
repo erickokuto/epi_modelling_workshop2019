@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554726993771.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "77DEF384",
+    "lastKnownWriteTime" : 1554798889,
+    "last_content_update" : 1554798891810,
+    "path" : "D:/R_projects/Epidemic_Modelling_Workshop_Unitid/script/Dominic_liveCoding.R",
+    "project_path" : "script/Dominic_liveCoding.R",
+    "properties" : {
+        "cursorPosition" : "150,19",
+        "scrollLine" : "141"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

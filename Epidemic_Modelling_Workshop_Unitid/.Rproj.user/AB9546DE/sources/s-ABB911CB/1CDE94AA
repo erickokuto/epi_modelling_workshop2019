@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554813379028.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1CDE94AA",
+    "lastKnownWriteTime" : 1554839698,
+    "last_content_update" : 1554839698266,
+    "path" : "D:/R_projects/Epidemic_Modelling_Workshop_Unitid/script/day2_script.R",
+    "project_path" : "script/day2_script.R",
+    "properties" : {
+        "cursorPosition" : "7,44",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

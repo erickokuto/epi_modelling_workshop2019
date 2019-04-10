@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554798441768.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "11C604FE",
+    "lastKnownWriteTime" : 1554798380,
+    "last_content_update" : 1554798380,
+    "path" : "D:/R_projects/Epidemic_Modelling_Workshop_Unitid/script/13063_2016_1378_MOESM2_ESM.r",
+    "project_path" : "script/13063_2016_1378_MOESM2_ESM.r",
+    "properties" : {
+        "cursorPosition" : "24,34",
+        "scrollLine" : "24"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

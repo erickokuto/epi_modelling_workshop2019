@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554874791062.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2548659972",
+    "id" : "1726AE75",
+    "lastKnownWriteTime" : 1554894529,
+    "last_content_update" : 1554894529672,
+    "path" : "D:/R_projects/Epidemic_Modelling_Workshop_Unitid/script/codingchallenge2_by_nyamaiWSU.R",
+    "project_path" : "script/codingchallenge2_by_nyamaiWSU.R",
+    "properties" : {
+        "cursorPosition" : "26,62",
+        "scrollLine" : "19"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

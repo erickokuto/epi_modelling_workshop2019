@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554885619729.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "18378ED7",
+    "lastKnownWriteTime" : 1554885648,
+    "last_content_update" : 1554885648468,
+    "path" : "D:/R_projects/Epidemic_Modelling_Workshop_Unitid/script/HighstatLibV6.R",
+    "project_path" : "script/HighstatLibV6.R",
+    "properties" : {
+        "cursorPosition" : "10,7",
+        "scrollLine" : "6",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

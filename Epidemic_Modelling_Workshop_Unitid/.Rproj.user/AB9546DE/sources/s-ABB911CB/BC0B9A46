@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554887907902.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2355614911",
+    "id" : "BC0B9A46",
+    "lastKnownWriteTime" : 1554894529,
+    "last_content_update" : 1554894529778,
+    "path" : "D:/R_projects/Epidemic_Modelling_Workshop_Unitid/script/fit_prob_dist.R",
+    "project_path" : "script/fit_prob_dist.R",
+    "properties" : {
+        "cursorPosition" : "2,21",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

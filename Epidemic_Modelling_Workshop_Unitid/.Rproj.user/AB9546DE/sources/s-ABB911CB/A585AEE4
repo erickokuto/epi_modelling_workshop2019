@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554628680037.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A585AEE4",
+    "lastKnownWriteTime" : 1554788772,
+    "last_content_update" : 1554788772872,
+    "path" : "D:/R_projects/Epidemic_Modelling_Workshop_Unitid/script/epi_modelling_intro.R",
+    "project_path" : "script/epi_modelling_intro.R",
+    "properties" : {
+        "cursorPosition" : "21,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
